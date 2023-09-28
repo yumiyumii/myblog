@@ -1,0 +1,10 @@
+{
+    "DJANGO_SECRET_KEY": "django-insecure-d!qihb(z!t&r(b@^9dme9l#)v7^ln930&&c(*&5o+8pwt5^$5%",
+    "DATABASE":{
+        "NAME": "",
+        "USER":"",
+        "PASSWORD":"",
+        "HOST":""
+    }
+
+}
